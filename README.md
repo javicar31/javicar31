@@ -1,5 +1,6 @@
 🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕
-- 👋 Hi, I’m @javicar31
+
+  I’m Javi
 - I’m interested in OpenCV, AI and RaspberryPi
 -  Computer Science / Cybersecurtiy 
 - I’m currently learning Java and Python
