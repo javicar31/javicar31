@@ -3,7 +3,7 @@
 - I’m interested in OpenCV, AI and RaspberryPi
 - Computer Science / Cybersecurtiy 
 - I’m currently learning Java and Python
-- ⚡ I write my C++ code with pen and paper
+- ⚡ I write C++ with pen and paper
   
 🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕
 
