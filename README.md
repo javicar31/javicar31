@@ -1,10 +1,10 @@
 🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕
 
-  I’m Javi
-- I’m interested in OpenCV, AI and RaspberryPi
-- Working on a Computer Science degree, Cybersecurtiy certification
+  ⚡ I’m Javi ⚡ 
+- I’m interested in OpenCV, AI and RaspberryPi 🍓
+- Working on a Computer Science degree, Cybersecurtiy certification 
 - I’m currently learning Java and Python
-- ⚡ I write C++ with pen and paper
+- Fun fact: i learned to write C++ with pen and paper
   
 🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕
 
