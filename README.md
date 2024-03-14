@@ -1,12 +1,12 @@
-🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕
+🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕
 
   I’m Javi
 - I’m interested in OpenCV, AI and RaspberryPi
--  Computer Science / Cybersecurtiy 
+- Working on a Computer Science degree, Cybersecurtiy certification
 - I’m currently learning Java and Python
 - ⚡ I write C++ with pen and paper
   
-🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕
+🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕
 
 <!---
 javicar31/javicar31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
