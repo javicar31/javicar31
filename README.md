@@ -1,6 +1,7 @@
 
-  ![GitHub_banner](https://github.com/javicar31/javicar31/assets/163356846/c2e750fa-84e7-4c5b-861f-c8383edd4902)
-                              ⚡ I’m Javi ⚡ 
+  ![GitHub_banner 2](https://github.com/javicar31/javicar31/assets/163356846/5392c2b3-ac5a-4aeb-bc13-a41e32c05327)
+
+   ⚡ I’m Javi ⚡ 
 - I’m interested in OpenCV, AI and RaspberryPi 🍓
 - Working on a Computer Science degree, Cybersecurtiy certification 
 - I’m currently learning Java and Python
